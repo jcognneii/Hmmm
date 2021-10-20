@@ -13,5 +13,4 @@ const CONFIG = {
     mess: 'Biết mà 🥰. Cười nhiều thì mới xinh được 😘😘',
     messDesc: 'Your smile is sunshine, the sunshine of your smile might chase the clouds from someone's life today',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
