@@ -4,7 +4,7 @@ const CONFIG = {
     Ai mà xinh thế nhỉ!!!!!`,
     btnIntro: 'hihi',
     title: 'Đã được nhận quà 20/10 chưa?? 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    desc: 'Cả năm có mỗi 1 ngày 20/10 thôi đấy ',
     btnYes: 'Gòi :3 ',
     btnNo: 'Zẫn chưa :3',
     question:'Đang cười đúng không',
