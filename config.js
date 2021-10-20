@@ -13,4 +13,5 @@ const CONFIG = {
     mess: 'Biết mà 🥰. Cười nhiều thì mới xinh được 😘😘',
     messDesc: 'Your smile is sunshine, the sunshine of your smile might chase the clouds from someone's life today',
     btnAccept: 'Okiiiii lun <3',
+    messLink: 'https://www.facebook.com/messages/t/100064661416257
 }
